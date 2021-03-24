@@ -25,3 +25,8 @@ Example http://localhost:8120/UniversalTime?timeUTC=1613840623
 
 ## Stop the application
 - Run `docker-compose down --remove-orphans`
+
+## How does this all work?
+If you would like to understand the php+nginx+docker stack used to build this service
+and how different services are built and interact with each other, you can watch the
+following video https://youtu.be/QZM2aatTT9s
